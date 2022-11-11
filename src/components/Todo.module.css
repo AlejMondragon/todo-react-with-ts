@@ -1,0 +1,16 @@
+.list-item {
+  padding: 24px 48px;
+  margin: 18px;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  background-color: #ff9900;
+  box-shadow: 6px 6px 6px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  list-style: none;
+}
+
+.list-item:hover {
+  cursor: pointer;
+}
